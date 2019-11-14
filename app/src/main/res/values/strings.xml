@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MotionLayout Application</string>
+    <string name="biker">biker</string>
+    <string name="sun">sun</string>
+    <string name="moon">moon</string>
+    <string name="star">star</string>
 </resources>

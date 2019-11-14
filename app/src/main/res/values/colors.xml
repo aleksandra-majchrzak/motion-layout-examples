@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="sky_morning">#BBDEFB</color>
+    <color name="sky_day">#81D4FA</color>
+    <color name="sky_night">#5C6BC0</color>
+    <color name="ground">#FFF9C4</color>
 </resources>
